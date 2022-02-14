@@ -16,3 +16,7 @@
 <br />
 
 <img src="image.png"  align="center" />
+
+<br />
+
+This project is under <a href="https://en.wikipedia.org/wiki/MIT_License">MIT License</a>
